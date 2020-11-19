@@ -1,0 +1,6 @@
+{
+   "mongoURI": "mongodb+srv://ilayda1234:ilayda1234@cluster0.pvvla.mongodb.net/test?retryWrites=true&w=majority",
+   "jwtToken":"mysecrettoken",
+   "githubClientId":"9c908cbcdea065c60eb0",
+   "githubSecret":"6530091b41e61b2279ac586ce1592247a7071c5c"
+}
